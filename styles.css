@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+    margin:2em 23em;
+    font-style: italic;
+    align-items: center;
+}
+.image{
+   
+    width:370px;
+    margin:1.7em 1.7em;
+    height:170px;
+    border-radius: 10px;
+}
+.content{
+   background-color: white;
+   border-radius: 10px;
+   width: 35vw;
+   margin-top: 2em;
+   margin-left: 2em;
+   
+   
+   
+}
+.heading{
+    margin-left: 1.3em;
+}
+ol li{
+    list-style-position: inside;
+}
+ul li{
+    list-style-position:inside ;
+}
+.para{
+    text-indent: 2em;
+}
